@@ -67,7 +67,7 @@ export const projects = [
     title: "BuyHome - Your Dream Home",
     des: "Simplify your buying home experience. Choose your dream home as per your budget.",
     img: "/buyhome.png",
-    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
+    iconLists: ["/nextjs.svg", "/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
     link: "https://buy-home1-muhammad-anas-projects-fbf35ac7.vercel.app/",
   },
   {
@@ -75,7 +75,7 @@ export const projects = [
     title: "Skillwave - Learn Technology",
     des: "Explore top-quality courses from experienced mentors on Skillwave at reasonable prices.",
     img: "/skillwave.png",
-    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
+    iconLists: ["/nextjs.svg", "/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
     link: "https://skillwave-teal.vercel.app/",
   },
 ];
